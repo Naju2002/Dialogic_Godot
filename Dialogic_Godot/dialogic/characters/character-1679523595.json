@@ -1,0 +1,21 @@
+{
+	"color": "#ff7c0606",
+	"description": "Naju é a Maga",
+	"display_name": "Naju",
+	"display_name_bool": true,
+	"id": "character-1679523595.json",
+	"mirror_portraits": false,
+	"name": "Ana ",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 100,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Sprites/catcharpicture.png"
+		}
+	],
+	"scale": 100,
+	"theme": "default-theme.cfg"
+}
